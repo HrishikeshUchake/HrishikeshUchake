@@ -9,7 +9,7 @@
 </p>
 
 <div align="center">
-  <h2><i>Computer Science undergrad & AI Enthusiast</i></h2>
+  <h2><i>I make and break things every day to create stuff I wish existed.</i></h2>
 </div>
 
 ---
