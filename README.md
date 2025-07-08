@@ -1,29 +1,36 @@
 # Hi, I'm Hrishikesh Uchake 👋
 
-I'm a software developer who firmly believes in lazy, efficient problem-solving—why do it the hard way when you can do it smarter?
+> Lazy developer, efficient problem solver.
 
-## 💡 About Me
-- I code to solve real-world problems with minimal effort and maximum impact.
-- I prioritize simplicity and efficiency in everything I build.
-- Personal Website: [hrishikeshu.vercel.app](https://hrishikeshu.vercel.app/)
-
-## 🛠️ Top Skills
-<!-- Replace these with your actual top skills manually if needed -->
-- JavaScript / TypeScript
-- Python
-- Node.js
-- React
-- Efficient Problem Solving (a skill in itself!)
-
-## 🚀 Featured Projects
-<!-- These are placeholders. Please manually add your pinned repositories below using this format. -->
-- [Project Name 1](https://github.com/HrishikeshUchake/project1) – Short description of what this project does or solves.
-- [Project Name 2](https://github.com/HrishikeshUchake/project2) – Short description here.
-- [Project Name 3](https://github.com/HrishikeshUchake/project3) – Description for project 3.
-
-<!-- Add or remove projects as needed -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-hrishikeshu.vercel.app-black?style=flat-square&logo=vercel)](https://hrishikeshu.vercel.app/)
 
 ---
 
-> “Laziness is the mother of efficiency.”  
-> — Hrishikesh
+### 🛠️ Top Skills
+
+<!-- Replace these with your repo languages for a quick, honest snapshot -->
+<span>&nbsp;JavaScript&nbsp;•&nbsp;TypeScript&nbsp;•&nbsp;Python&nbsp;•&nbsp;Node.js&nbsp;•&nbsp;React&nbsp;•&nbsp;Efficient Problem Solving</span>
+
+---
+
+### 🚀 Featured Projects
+
+<!-- Replace with your actual pinned repos and add a short tagline for each -->
+- [Project Name 1](https://github.com/HrishikeshUchake/project-1) – _Short description here_
+- [Project Name 2](https://github.com/HrishikeshUchake/project-2) – _Short description here_
+- [Project Name 3](https://github.com/HrishikeshUchake/project-3) – _Short description here_
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1500&color=000000&center=true&width=380&lines=Why+work+hard+when+you+can+work+smart%3F;Minimal+code+for+maximal+impact." alt="Typing SVG" />
+</p>
+
+```
+> “Laziness is the mother of efficiency.”
+```
+
+<!-- 
+Tip: Keep the README clutter-free and update skills/projects as you grow. 
+You can add subtle effects with SVGs or shields above. 
+-->
