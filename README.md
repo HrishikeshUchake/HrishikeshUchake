@@ -5,7 +5,6 @@
 <h1 align="center">Hi, I’m <a href="https://github.com/HrishikeshUchake">Hrishikesh Uchake</a> 👋</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HrishikeshUchake&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HrishikeshUchake&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
