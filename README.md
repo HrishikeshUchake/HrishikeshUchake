@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80" alt="wave"/>
 </p>
 
-<h1 align="center">Hi, I’m <a href="https://github.com/HrishikeshUchake">Hrishikesh Uchake</a> 👋</h1>
+<h1 align="center">Hola, I’m <a href="https://github.com/HrishikeshUchake">Hrishikesh Uchake</a> </h1>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HrishikeshUchake&layout=compact&theme=tokyonight" alt="Top Languages" />
@@ -14,7 +14,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Languages & Frameworks:** Java | Python | JavaScript/TypeScript | Kotlin | C/C++ | React | Node.js | Express | FastAPI | Spring Boot
 - **Databases & DevOps:** MongoDB | MySQL | Docker | Kubernetes | GitHub Actions | CI/CD
@@ -23,7 +23,7 @@
 
 ---
 
-## 🚀 Selected Projects
+## Selected Projects
 
 | Project                           | Tech & Highlights                                                          |
 | --------------------------------- | ---------------------------------------------------------------------------- |
@@ -36,14 +36,14 @@
 
 ---
 
-## 🎓 Education
+## Education
 
 **Iowa State University**  
 B.S. Computer Science, Minor in Artificial Intelligence
 
 ---
 
-## 📫 Connect
+## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/hrishikeshUchake21)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/HrishikeshUchake)  
