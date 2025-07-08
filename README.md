@@ -1,6 +1,6 @@
-# Hi, I'm Hrishikesh Uchake 👋
+# Hola, I'm Hrishikesh 
 
-> Lazy developer, efficient problem solver.
+> Making and breaking stuff everyday to create what I wish existed.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-hrishikeshu.vercel.app-black?style=flat-square&logo=vercel)](https://hrishikeshu.vercel.app/)
 
