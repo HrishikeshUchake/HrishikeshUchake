@@ -5,7 +5,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-hrishikeshu.vercel.app-black?style=flat-square&logo=vercel)](https://hrishikeshu.vercel.app/)
 
 ```
-> “Warriors in 6.”
+> Warriors in 6.
 ```
 
 
