@@ -44,7 +44,7 @@ B.S. Computer Science, Minor in Artificial Intelligence
 ---
 
 ## Connect
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-hrishikeshu.vercel.app-black?style=flat-square&logo=vercel)](https://hrishikeshu.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/hrishikeshUchake21)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/HrishikeshUchake)  
 [![Email](https://img.shields.io/badge/Email-%20gmail-red?logo=gmail)](mailto:uchakeh@gmail.com)
