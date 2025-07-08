@@ -8,14 +8,12 @@
 
 ### 🛠️ Top Skills
 
-<!-- Replace these with your repo languages for a quick, honest snapshot -->
 <span>&nbsp;JavaScript&nbsp;•&nbsp;TypeScript&nbsp;•&nbsp;Python&nbsp;•&nbsp;Node.js&nbsp;•&nbsp;React&nbsp;•&nbsp;Efficient Problem Solving</span>
 
 ---
 
 ### 🚀 Featured Projects
 
-<!-- Replace with your actual pinned repos and add a short tagline for each -->
 - [Project Name 1](https://github.com/HrishikeshUchake/project-1) – _Short description here_
 - [Project Name 2](https://github.com/HrishikeshUchake/project-2) – _Short description here_
 - [Project Name 3](https://github.com/HrishikeshUchake/project-3) – _Short description here_
@@ -30,7 +28,4 @@
 > “Laziness is the mother of efficiency.”
 ```
 
-<!-- 
-Tip: Keep the README clutter-free and update skills/projects as you grow. 
-You can add subtle effects with SVGs or shields above. 
--->
+
