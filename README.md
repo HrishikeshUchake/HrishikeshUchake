@@ -21,7 +21,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1500&color=000000&center=true&width=380&lines=Why+work+hard+when+you+can+work+smart%3F;Minimal+code+for+maximal+impact." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1500&color=000000&center=true&width=380&lines=why+work+hard+when+you+can+work+smart%3F;Minimal+code+for+maximal+impact." alt="Typing SVG" />
 </p>
 
 ```
