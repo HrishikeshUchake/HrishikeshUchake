@@ -28,12 +28,13 @@
 
 | Project                           | Tech & Highlights                                                          |
 | --------------------------------- | ---------------------------------------------------------------------------- |
-| **Stock Market Recommendation**   | React, Node.js, Alpha Vantage API, RSI & MA analysis, Chart.js, MongoDB       |
 | **TED Talk Recommender**          | Streamlit, TF-IDF & Cosine Similarity, Docker                                |
 | **FindRight App**                 | Spring Boot, MySQL, WebSockets, CI/CD (Scrum Master)                        |
 | **EdTech Platform**               | Responsive React SPA with Instructor & Author profiles                       |
 | **Vision Transformer**            | PyTorch ViT on CIFAR-10, custom training pipeline                           |
 | **Roguelike Dungeon Game**        | C/C++, ncurses, procedural generation, AI pathfinding                       |
+| **Sudoko**                        | HTML, Tailwind, Backtracking Algo                                           |
+
 
 ---
 
