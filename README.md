@@ -33,7 +33,7 @@
 | **EdTech Platform**               | Responsive React SPA with Instructor & Author profiles                       |
 | **Vision Transformer**            | PyTorch ViT on CIFAR-10, custom training pipeline                           |
 | **Roguelike Dungeon Game**        | C/C++, ncurses, procedural generation, AI pathfinding                       |
-| **Sudoko**                        | HTML, Tailwind, Backtracking Algo                                           |
+| **Sudoku**                        | HTML, Tailwind, Backtracking Algo                                           |
 
 
 ---
