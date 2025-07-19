@@ -3,12 +3,11 @@
 </p>
 
 <h1 align="center">Hola, I’m <a href="https://github.com/HrishikeshUchake">Hrishikesh Uchake</a> </h1>
----
 <div align="center">
   <h2><i>I make and break things every day to create stuff I wish existed.</i></h2>
 </div>
 
----
+
 
 ## Tech Stack
 
@@ -17,14 +16,14 @@
 - **ML & Data Science:** TensorFlow | PyTorch | Scikit-Learn | NLP | Computer Vision
 - **Tools & Others:** Git | JUnit | Chart.js | Linux/Unix
 
----
+
 
 ## Education
 
 **Iowa State University**  
 B.S. Computer Science, Minor in Artificial Intelligence
 
----
+
 
 ## Connect
 
