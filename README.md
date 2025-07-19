@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hola, I’m <a href="https://github.com/HrishikeshUchake">Hrishikesh Uchake</a> </h1>
-
+---
 <div align="center">
   <h2><i>I make and break things every day to create stuff I wish existed.</i></h2>
 </div>
