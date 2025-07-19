@@ -4,11 +4,6 @@
 
 <h1 align="center">Hola, I’m <a href="https://github.com/HrishikeshUchake">Hrishikesh Uchake</a> </h1>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HrishikeshUchake&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HrishikeshUchake&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
 <div align="center">
   <h2><i>I make and break things every day to create stuff I wish existed.</i></h2>
 </div>
