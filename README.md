@@ -16,7 +16,7 @@
 - **Databases & DevOps:** MongoDB | MySQL | Docker | Kubernetes | GitHub Actions | CI/CD
 - **ML & Data Science:** TensorFlow | PyTorch 
 - **Tools & Others:**  JUnit | TSL | Linux/Unix | Selenium | Postman
-
+- **Certifications:** Currently working on AWS Practitioner Certificate 
 
 
 ## Education
