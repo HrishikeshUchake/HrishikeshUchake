@@ -13,7 +13,7 @@
 
 - **Languages & Frameworks:** Java | Python | C/C++ | Go | Swift
 - **Databases & DevOps:** MongoDB | MySQL | Docker | Kubernetes | GitHub Actions | CI/CD
-- **ML & Data Science:** TensorFlow | PyTorch | Scikit-Learn | NLP | Computer Vision
+- **ML & Data Science:** TensorFlow | PyTorch 
 - **Tools & Others:**  JUnit | TSL | Linux/Unix | Selenium | Postman
 
 
