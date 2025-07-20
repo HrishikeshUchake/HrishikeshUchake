@@ -2,7 +2,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80" alt="wave"/>
 </p>
 
-<h1 align="center">Hola, I’m <a href="https://github.com/HrishikeshUchake">Hrishikesh Uchake</a> </h1>
+<h1 align="center">Hola, Hrishikesh Uchake here!</a> </h1>
+<h1 align="center"><i>I love brainstorming Software Architure solutions!</i></a> </h1>
 <div align="center">
   <h2><i>I make and break things every day to create stuff I wish existed.</i></h2>
 </div>
