@@ -11,10 +11,10 @@
 
 ## Tech Stack
 
-- **Languages & Frameworks:** Java | Python | JavaScript/TypeScript | Kotlin | C/C++ | React | Node.js | Express | FastAPI | Spring Boot
+- **Languages & Frameworks:** Java | Python | C/C++ | Go | Swift
 - **Databases & DevOps:** MongoDB | MySQL | Docker | Kubernetes | GitHub Actions | CI/CD
 - **ML & Data Science:** TensorFlow | PyTorch | Scikit-Learn | NLP | Computer Vision
-- **Tools & Others:** Git | JUnit | Chart.js | Linux/Unix
+- **Tools & Others:**  JUnit | TSL | Linux/Unix | Selenium | Postman
 
 
 
