@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hola, Hrishikesh Uchake here!</a> </h1>
-<h1 align="center"><i>I love brainstorming Software Architure solutions!</i></a> </h1>
+<div align="center"><i>I love brainstorming Software Architure solutions!</i></a> </div>
 <div align="center">
   <h2><i>I make and break things every day to create stuff I wish existed.</i></h2>
 </div>
