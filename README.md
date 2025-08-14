@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-- 🎓 **Computer Science Student** at Iowa State University, Ames, IA
+- 🎓 **Computer Science, Minor in Applied AI Student** at Iowa State University, Ames, IA
 - 💻 **Full-Stack Developer** passionate about building innovative solutions
 - 🌱 Currently exploring **AI, Machine Learning, and Cloud Computing**
 - 🤝 **Open Source Contributor** with contributions to Apache projects and more
