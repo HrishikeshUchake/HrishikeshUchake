@@ -50,7 +50,7 @@ I actively contribute to open source projects, helping improve tools and framewo
 
 ## 🎯 Featured Projects
 
-### 🔍 **FindRight App** - Lost & Found + Study Group Planner for ISU
+### 🔍 **FoundFirst App** - Lost & Found + Study Group Planner for ISU
 > A unified web application for Iowa State University students combining Lost & Found portal with Study Group Planner
 
 **Tech Stack:** Spring Boot, MySQL, WebSockets, Docker
