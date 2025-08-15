@@ -41,7 +41,7 @@ I actively contribute to open source projects, helping improve tools and framewo
 
 ### 🔧 **Recent Contributions**
 - **[Apache StormCrawler](https://github.com/apache/stormcrawler)** - Fixed NOP logger configuration
-- **[AOSSIE-Org/Devr.AI](https://github.com/AOSSIE-Org/Devr.AI)** - RabbitMq integration to Docker Compose configuration
+- **[AOSSIE-Org/Devr.AI](https://github.com/AOSSIE-Org/Devr.AI)** - RabbitMQ integration to Docker Compose configuration
 - **[VetLog Spring Boot](https://github.com/josdem/vetlog-spring-boot)** - Fixed Multi-language labels switch
 - **[OpenSchool](https://github.com/phihai222/openschool)** - Docker configuration improvements
 
