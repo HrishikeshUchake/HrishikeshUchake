@@ -70,7 +70,7 @@ I actively contribute to open source projects, helping improve tools and framewo
 - 📊 Visualization tools for model interpretation
 - 📚 Inspired by "An Image is Worth 16x16 Words"
 
-[📁 Repository](https://github.com/HrishikeshUchake/FindRight)
+[📁 Repository](https://github.com/HrishikeshUchake/ViT_from_scratch)
 
 ### 🎮 **RogueLike Dungeon Game**
 > Classic dungeon crawler built with C++ and ncurses
@@ -80,7 +80,7 @@ I actively contribute to open source projects, helping improve tools and framewo
 - ⚔️ Turn-based combat system
 - 🎯 Object-oriented design patterns
 
-[📁 Repository](https://github.com/HrishikeshUchake/FindRight)
+[📁 Repository](https://github.com/HrishikeshUchake/RogueLike-Dungeon-Game)
 
 ### 🤖 **Ted Talk Recommendation Model**
 > ML-powered content recommendation system with web interface
@@ -91,7 +91,7 @@ I actively contribute to open source projects, helping improve tools and framewo
 - 🎨 Word cloud visualization
 - 🐳 Full containerized deployment support
  
-[📁 Repository](https://github.com/HrishikeshUchake/FindRight)
+[📁 Repository](https://github.com/HrishikeshUchake/Ted_Talk_Recommendation_Model)
 
 ---
 
