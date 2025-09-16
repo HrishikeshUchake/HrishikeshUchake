@@ -16,7 +16,7 @@
 - 🤝 **Open Source Contributor** with contributions to Apache projects and more
 - 📍 Based in **Ames, Iowa**
 - 💼 Open to collaboration and **hireable**!
-- 🌐 Check out my portfolio: [hrishikeshu.vercel.app](https://hrishikeshu.vercel.app/)
+- 🌐 Check out my portfolio: [hrishikesh.is-a.dev](https://hrishikesh.is-a.dev/)
 
 ---
 
