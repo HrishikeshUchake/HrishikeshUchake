@@ -98,7 +98,7 @@ I actively contribute to open source projects, helping improve tools and framewo
 ## Connect With Me
 
 <p align="center">
-  <a href="https://hrishikeshu.vercel.app/" target="_blank">
+  <a href="https://hrishikesh.is-a.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/hrishikeshuchake21/" target="_blank">
