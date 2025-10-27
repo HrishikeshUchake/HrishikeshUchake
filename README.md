@@ -47,53 +47,6 @@ I actively contribute to open source projects, helping improve tools and framewo
 
 ---
 
-## My Projects
-
-### **FoundFirst App** - Lost & Found + Study Group Planner for ISU
-> A unified web application for Iowa State University students combining Lost & Found portal with Study Group Planner
-
-**Tech Stack:** Spring Boot, MySQL, WebSockets, Docker
-- Real-time chat functionality with WebSocket integration
-- Course-specific study group creation and management
-- CI/CD pipeline with GitHub Actions
-- Command Pattern implementation for modular UI
-
-[Demo Video](https://www.youtube.com/watch?v=LxyOGoTdRuE) | [Repository](https://github.com/HrishikeshUchake/FindRight)
-
-### **Vision Transformer from Scratch**
-> Educational implementation of Vision Transformer (ViT) built from scratch in PyTorch
-
-**Tech Stack:** PyTorch, CIFAR-10, Jupyter
-- Custom patch embedding implementation
-- Transformer encoder blocks from scratch
-- Visualization tools for model interpretation
-- Inspired by "An Image is Worth 16x16 Words"
-
-[Repository](https://github.com/HrishikeshUchake/ViT_from_scratch)
-
-### **RogueLike Dungeon Game**
-> Classic dungeon crawler built with C++ and ncurses
-
-**Tech Stack:** C++, ncurses, Makefile
-- Procedural dungeon generation
-- Turn-based combat system
-- Object-oriented design patterns
-
-[Repository](https://github.com/HrishikeshUchake/RogueLike-Dungeon-Game)
-
-### **Ted Talk Recommendation Model**
-> ML-powered content recommendation system with web interface
-
-**Tech Stack:** Python, scikit-learn, NLTK, Streamlit, Docker
-- TF-IDF vectorization for content analysis
-- Cosine similarity and Pearson correlation
-- Word cloud visualization
-- Full containerized deployment support
- 
-[Repository](https://github.com/HrishikeshUchake/Ted_Talk_Recommendation_Model)
-
----
-
 
 ## Connect With Me
 
