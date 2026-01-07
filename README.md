@@ -23,7 +23,7 @@
 
 ```javascript
 const hrishikesh = {
-    languages: ["Java", "Python", "JavaScript", "TypeScript", "Kotlin", "C++"],
+    languages: ["Go", "Java", "Python", "TypeScript", "C++"],
     frameworks: ["Spring Boot", "React", "Next.js", "Jetpack Compose"],
     databases: ["MySQL", "MongoDB"],
     tools: ["Git", "Docker", "Postman", "WebSockets", "GitHub Actions"],
