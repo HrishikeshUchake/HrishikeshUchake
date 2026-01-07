@@ -11,8 +11,7 @@
 ## About Me
 
 - **Computer Science, Minor in Applied AI Student** at Iowa State University, Ames, IA
-- **Full-Stack Developer** passionate about building innovative solutions
-- Currently exploring **iOS Development,AI and Machine Learning.**
+- Exploring cool repos and new tech everyday
 - **Open Source Contributor** with contributions to Apache projects and more
 - Open to collaboration and **hireable**!
 - Check out my portfolio: [hrishikesh.is-a.dev](https://hrishikesh.is-a.dev/)
