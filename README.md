@@ -43,11 +43,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=1&pause=1000&color=555555&width=400&lines=Computer+Science+%2B+Applied+AI+at+Iowa+State" alt="About Hrishikesh"/>
 </picture>
 
-- **Computer Science, Minor in Applied AI** at Iowa State University, Ames, IA
+- **MS Computer Science, Minor in Applied AI** at Iowa State University, Ames, IA
 - Exploring cool repos and new tech every day
-- **Open Source Contributor** with contributions to Apache projects and more
 - Open to collaboration and **hireable**!
-- Research Intern at SwAPP Lab (TU Darmstadt) & IRLab
+- Research Intern at SwAPP Lab 
 
 ---
 
@@ -62,12 +61,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=1&pause=1000&color=555555&width=400&lines=Project+ecosystem+%26+contributions" alt="Project ecosystem"/>
 </picture>
 
-### Recent Open Source Contributions
-- **Apache StormCrawler** — Improved NOP logger configuration
-- **AOSSIE-Org/Devr.AI** — RabbitMQ integration to Docker Compose
-- **VetLog Spring Boot** — Fixed multi-language labels switch
-- **OpenSchool** — Docker configuration improvements
-
 ### Featured Projects
 | Project | Description | Stack |
 |---------|-------------|-------|
@@ -79,69 +72,10 @@
 | **QR_code_generator** | Custom QR generator for SI sessions | JavaScript |
 | **Sudoku** | Backtracking-based Sudoku solver website | HTML, JavaScript |
 
----
-
-<!-- 03 — projects -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=1&pause=1000&color=FFFFFF&width=300&lines=03+%E2%80%94+projects"/>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=1&pause=1000&color=000000&width=300&lines=03+%E2%80%94+projects" alt="03 — projects"/>
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=1&pause=1000&color=888888&width=400&lines=15%2B+repositories+and+counting"/>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=1&pause=1000&color=555555&width=400&lines=15%2B+repositories+and+counting" alt="15 projects"/>
-</picture>
-
-<div align="center">
-
-[![FoundFirst](https://github-readme-stats.vercel.app/api/pin/?username=HrishikeshUchake&repo=FoundFirst&theme=default&hide_border=true&border_radius=0)](https://github.com/HrishikeshUchake/FoundFirst)
-[![RogueLike-Dungeon-Game](https://github-readme-stats.vercel.app/api/pin/?username=HrishikeshUchake&repo=RogueLike-Dungeon-Game&theme=default&hide_border=true&border_radius=0)](https://github.com/HrishikeshUchake/RogueLike-Dungeon-Game)
-
-[![ViT_from_scratch](https://github-readme-stats.vercel.app/api/pin/?username=HrishikeshUchake&repo=ViT_from_scratch&theme=default&hide_border=true&border_radius=0)](https://github.com/HrishikeshUchake/ViT_from_scratch)
-[![Ted_Talk_Recommendation_Model](https://github-readme-stats.vercel.app/api/pin/?username=HrishikeshUchake&repo=Ted_Talk_Recommendation_Model&theme=default&hide_border=true&border_radius=0)](https://github.com/HrishikeshUchake/Ted_Talk_Recommendation_Model)
-
-[![Infrastructure-Cost-Optimizer](https://github-readme-stats.vercel.app/api/pin/?username=HrishikeshUchake&repo=Infrastructure-Cost-Optimizer&theme=default&hide_border=true&border_radius=0)](https://github.com/HrishikeshUchake/Infrastructure-Cost-Optimizer)
-[![QR_code_generator](https://github-readme-stats.vercel.app/api/pin/?username=HrishikeshUchake&repo=QR_code_generator&theme=default&hide_border=true&border_radius=0)](https://github.com/HrishikeshUchake/QR_code_generator)
-
-</div>
 
 ---
 
-<!-- 04 — telemetry -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=1&pause=1000&color=FFFFFF&width=300&lines=04+%E2%80%94+telemetry"/>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=1&pause=1000&color=000000&width=300&lines=04+%E2%80%94+telemetry" alt="04 — telemetry"/>
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=1&pause=1000&color=888888&width=400&lines=Animated+development+telemetry"/>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=1&pause=1000&color=555555&width=400&lines=Animated+development+telemetry" alt="Animated development telemetry"/>
-</picture>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=HrishikeshUchake&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&text_color=ffffff&icon_color=ffffff&title_color=ffffff&border_radius=0"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=HrishikeshUchake&show_icons=true&theme=default&hide_border=true&bg_color=00000000&text_color=000000&icon_color=000000&title_color=000000&border_radius=0" width="49%" alt="GitHub statistics"/>
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HrishikeshUchake&layout=compact&theme=dark&hide_border=true&bg_color=00000000&text_color=ffffff&title_color=ffffff&border_radius=0"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HrishikeshUchake&layout=compact&theme=default&hide_border=true&bg_color=00000000&text_color=000000&title_color=000000&border_radius=0" width="49%" alt="Top languages"/>
-</picture>
-
-<br><br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=HrishikeshUchake&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=true&radius=0&custom_title=CONTRIBUTION%20TELEMETRY"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HrishikeshUchake&bg_color=00000000&color=000000&line=000000&point=000000&area_color=000000&area=true&hide_border=true&radius=0&custom_title=CONTRIBUTION%20TELEMETRY" width="97%" alt="GitHub contribution activity"/>
-</picture>
-
-</div>
-
----
-
-<!-- 05 — the route -->
+<!-- 03 — the route -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=1&pause=1000&color=FFFFFF&width=300&lines=05+%E2%80%94+the+route"/>
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=1&pause=1000&color=000000&width=300&lines=05+%E2%80%94+the+route" alt="05 — the route"/>
@@ -153,41 +87,20 @@
 </picture>
 
 ```
-2024 ────┬── Iowa State University — CS Help Room Tutor
-         ├── Iowa State University — Supplemental Instruction Leader
+2024 ────┬── Iowa State University — Supplemental Instruction Leader
          └── Iowa State University CS — Undergraduate Teaching Assistant (COM S 227 OOP)
 
-2025 ────┬── SwAPP Lab — Research Intern (LLMs, Prompt Engineering, Activation Steering, Parallel Computing)
-         └── Iowa State University CS — Undergraduate Teaching Assistant
+2025 ────┬── Iowa State University CS Help Room Tutor (COMS 127, 227, 228, 230, 311, 319, 321, 327, 331, 352, 362, 417)
+         └── IRLab — Research Intern (Unity, C#, AR/VR, Ray Tracing)
 
-2026 ────┬── IRLab — Research Intern (Unity, C#, AR/VR, Ray Tracing)
-         └── Open Source Contributor — Apache StormCrawler, AOSSIE-Org, VetLog, OpenSchool
+2026 ────┬── Software Engineer - AsMoment - Pocianet, LLC. (RAG, Local Inference, Privacy, Microservice)
+         └── SwAPP Lab — Research Intern (Context Engineering, ETL pipelines, fine-tuning, High-Performance Computing)
 ```
 
 ---
 
-<!-- 06 — experience -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=1&pause=1000&color=FFFFFF&width=300&lines=06+%E2%80%94+experience"/>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=1&pause=1000&color=000000&width=300&lines=06+%E2%80%94+experience" alt="06 — experience"/>
-</picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=1&pause=1000&color=888888&width=400&lines=Professional+experience"/>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=1&pause=1000&color=555555&width=400&lines=Professional+experience" alt="Professional experience"/>
-</picture>
-
-| Role | Org | Period | Focus |
-|------|-----|--------|-------|
-| Research Intern | SwAPP Lab (TU Darmstadt) | 2025 – Present | LLMs, Prompt Engineering, Activation Steering, Parallel Computing, Supercomputers |
-| Research Intern | IRLab | 2026 – Present | Unity, C#, AR/VR, Ray Tracing, Stylus-drawable canvas optimization |
-| UG Teaching Assistant | Iowa State University CS | 2024 – 2025 | Java, OOP, Recursion, Design Patterns — 100+ students/semester |
-| SI Leader | Iowa State University | 2024 – 2025 | Calculus, Discrete Math — custom worksheets & visual aids |
-| CS Help Room Tutor | Iowa State University | 2024 – 2025 | Data Structures, Algorithms, Debugging, Problem Solving |
-
----
-
-<!-- 07 — stack -->
+<!-- 04 — stack -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=1&pause=1000&color=FFFFFF&width=300&lines=07+%E2%80%94+stack"/>
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=1&pause=1000&color=000000&width=300&lines=07+%E2%80%94+stack" alt="07 — stack"/>
@@ -197,17 +110,6 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=1&pause=1000&color=888888&width=400&lines=Technical+stack"/>
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=1&pause=1000&color=555555&width=400&lines=Technical+stack" alt="Technical stack"/>
 </picture>
-
-```javascript
-const hrishikesh = {
-    languages: ["Go", "Java", "Python", "TypeScript", "C++", "Kotlin", "C", "Swift", "Bash"],
-    frameworks: ["Spring Boot", "React", "Next.js", "Jetpack Compose", "Node.js", "Express.js", "FastAPI", "Django", "Flask", "PyTorch"],
-    databases: ["MySQL", "MongoDB", "PostgreSQL"],
-    tools: ["Git", "Docker", "Kubernetes", "Postman", "WebSockets", "GitHub Actions", "Gradle", "Jupyter", "RabbitMQ"],
-    cloud: ["AWS", "Azure", "Vercel", "Docker"],
-    interests: ["AI/ML", "Web Development", "Mobile Development", "System Design", "AR/VR", "Parallel Computing"]
-};
-```
 
 <div align="center">
 
