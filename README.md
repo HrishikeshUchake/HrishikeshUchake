@@ -52,7 +52,7 @@
 - **MS Computer Science, Minor in Applied AI** at Iowa State University, Ames, IA
 - Exploring cool repos and new tech every day
 - Open to collaboration and **hireable**!
-- Research Intern at SwAPP Lab 
+- Research Intern at [SwAPP Lab](https://swapp.cs.iastate.edu/)
 
 ---
 
@@ -145,9 +145,5 @@
 
 > **"Code is like humor. When you have to explain it, it's bad."** — Cory House
 
-- 🔭 Researching at **SwAPP Lab** & **IRLab**
-- 🌱 Exploring **LLMs**, **AR/VR**, and **System Design**
-- 🤝 Open to collaboration and **hireable**!
-- 🌐 Portfolio: [hrishikesh.is-a.dev](https://hrishikesh.is-a.dev)
 
 <!-- one responsive picture per visual; no duplicate light/dark rendering -->
