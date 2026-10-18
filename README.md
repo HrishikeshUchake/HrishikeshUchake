@@ -142,7 +142,4 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=1&pause=1000&color=000000&width=300&lines=current+status" alt="Current status"/>
 </picture>
 
-> **"Code is like humor. When you have to explain it, it's bad."** — Cory House
-
-
 <!-- one responsive picture per visual; no duplicate light/dark rendering -->
