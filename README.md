@@ -52,7 +52,7 @@
 - **MS Computer Science, Minor in Applied AI** at Iowa State University, Ames, IA
 - Exploring cool repos and new tech every day
 - Open to collaboration and **hireable**!
-- Research Intern at [SwAPP Lab](https://swapp.cs.iastate.edu/)
+- Assistant Researcher at [SwAPP Lab](https://swapp.cs.iastate.edu/)
 
 ---
 
