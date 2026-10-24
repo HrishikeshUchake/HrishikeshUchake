@@ -84,7 +84,7 @@
 <!-- 03 — the route -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=1&pause=1000&color=FFFFFF&width=300&lines=05+%E2%80%94+the+route"/>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=1&pause=1000&color=000000&width=300&lines=05+%E2%80%94+the+route" alt="05 — the route"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=1&pause=1000&color=000000&width=300&lines=05+%E2%80%94+the+route" alt="03 — the route"/>
 </picture>
 
 <picture>
@@ -109,7 +109,7 @@
 <!-- 04 — stack -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=1&pause=1000&color=FFFFFF&width=300&lines=07+%E2%80%94+stack"/>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=1&pause=1000&color=000000&width=300&lines=07+%E2%80%94+stack" alt="07 — stack"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=1&pause=1000&color=000000&width=300&lines=07+%E2%80%94+stack" alt="04 — stack"/>
 </picture>
 
 <picture>
