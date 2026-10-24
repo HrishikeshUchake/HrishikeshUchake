@@ -134,12 +134,3 @@
 
 </div>
 
----
-
-<!-- FOOTER -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=1&pause=1000&color=FFFFFF&width=300&lines=current+status"/>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=1&pause=1000&color=000000&width=300&lines=current+status" alt="Current status"/>
-</picture>
-
-<!-- one responsive picture per visual; no duplicate light/dark rendering -->
